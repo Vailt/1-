@@ -82,3 +82,4 @@ class Final_Win(QWidget):
         self.layout.addWidget(self.index, alignment = Qt.AlignCenter)
         self.layout.addWidget(self.res1, alignment = Qt.AlignCenter)
         self.setLayout(self.layout)
+fw = Final_Win()        
